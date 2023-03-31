@@ -63,13 +63,15 @@ On A15-based devices, this mode could be disabled if you want a smoother experie
 Gamepads are supported if your OS supports it. Please note that iOS does not support most kinds of gamepads. DualShock 4 is an officially supported one.
 
 You may also want to control the game with a keyboard:
-```
-z: A
-x: B
-a: Y
-s: X
-q: L
-w: R
-enter: Start
-shift: Select
-```
+
+| Key | Gamepad |
+| :--: | :--: |
+| z | A |
+| x | B |
+| a | Y |
+| s | X |
+| q | L |
+| w | R |
+| enter | Start |
+| shift | Select |
+| escape | Menu |

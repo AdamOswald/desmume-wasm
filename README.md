@@ -8,6 +8,21 @@ https://ds.44670.org/
 
 Please read this guide before creating a new issue. Thanks!
 
+# About White Screen Issue on iOS
+
+A small number of users have experienced a white screen issue after updating their iOS, due to a bug in the recent iOS update. Please follow the steps below to resolve this issue:
+
+1. Turn off the Service Worker: Settings > Safari > Advanced > Experimental Features > Service Workers > OFF.
+2. Access DS Player with an internet connection.
+
+To restore offline access:
+
+1. Backup saved data on the old DS Player icon.
+2. Add a new icon and restore the Service Worker.
+
+Note: Old and new icons have independent data. Do not delete the old icon to prevent data loss. 
+
+
 # Frequently Asked Questions
 
 

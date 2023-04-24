@@ -1,6 +1,6 @@
 # DeSmuME-wasm
 
-WebAssembly port of the DeSmuME. 
+WebAssembly port of the DeSmuME.
 
 Designed for iPhone/iPad, also workable on other devices with a modern browser.
 
@@ -20,11 +20,9 @@ To restore offline access:
 1. Backup saved data on the old DS Player icon.
 2. Add a new icon and restore the Service Worker.
 
-Note: Old and new icons have independent data. Do not delete the old icon to prevent data loss. 
-
+Note: Old and new icons have independent data. Do not delete the old icon to prevent data loss.
 
 # Frequently Asked Questions
-
 
 **Q: Can I use it offline?**
 
@@ -40,7 +38,7 @@ Note: Old and new icons have independent data. Do not delete the old icon to pre
 
 **Q: The Select/Start buttons are overlapped by the Home Bar.**
 
-- A: That's okay. You can touch them as usual. If the buttons are not working, it means the game does not use the Select/Start.  
+- A: That's okay. You can touch them as usual. If the buttons are not working, it means the game does not use the Select/Start.
 
 **Q: How do I save my progress?**
 
@@ -62,14 +60,13 @@ Note: Old and new icons have independent data. Do not delete the old icon to pre
 
 - A: Pressing the 'R' button will emulate a blow on the microphone. It *may* be helpful in playing some games.
 
-
 # Performance
 
-Most 2D games could be run at 60fps on A14-based devices. 
+Most 2D games could be run at 60fps on A14-based devices.
 
 However, the performance of 3D games varies for each game. An A15-based device could run most 3D games at nearly full speed.
 
-By default, the 30FPS limit mode is enabled. It is strongly recommended to enable this mode on A14-based devices (or earlier) to protect battery life and keep the temperature comfortable for playing. 
+By default, the 30FPS limit mode is enabled. It is strongly recommended to enable this mode on A14-based devices (or earlier) to protect battery life and keep the temperature comfortable for playing.
 
 On A15-based devices, this mode could be disabled if you want a smoother experience.
 
@@ -79,14 +76,15 @@ Gamepads are supported if your OS supports it. Please note that iOS does not sup
 
 You may also want to control the game with a keyboard:
 
-| Key | Gamepad |
-| :--: | :--: |
-| z | A |
-| x | B |
-| a | Y |
-| s | X |
-| q | L |
-| w | R |
-| enter | Start |
-| shift | Select |
-| escape | Menu |
+|  Key   | Gamepad |
+|:------:|:-------:|
+|   z    |    A    |
+|   x    |    B    |
+|   a    |    Y    |
+|   s    |    X    |
+|   q    |    L    |
+|   w    |    R    |
+| enter  |  Start  |
+| shift  | Select  |
+| escape |  Menu   |
+

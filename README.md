@@ -78,12 +78,12 @@ You may also want to control the game with a keyboard:
 
 |  Key   | Gamepad |
 |:------:|:-------:|
-|   z    |    A    |
-|   x    |    B    |
-|   a    |    Y    |
-|   s    |    X    |
-|   q    |    L    |
-|   w    |    R    |
+|   a    |    A    |
+|   b    |    B    |
+|   y    |    Y    |
+|   x    |    X    |
+|   l    |    L    |
+|   r    |    R    |
 | enter  |  Start  |
 | shift  | Select  |
 | escape |  Menu   |
